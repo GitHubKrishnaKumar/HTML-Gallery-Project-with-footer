@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.dev-img{
+    height:150px !important;
+}
+.accio-img{
+    height: 50px !important;
+    width: 50px !important;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    margin-left: -35px;
+    padding: 5px;
+}
+li > a{
+    text-decoration: none;
+    color: white;
+}
